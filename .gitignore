@@ -1,0 +1,10 @@
+# Virtual environments & Python caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS & editor artifacts
+.DS_Store
+.vscode/
+.idea/
